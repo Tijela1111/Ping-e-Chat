@@ -1,0 +1,6 @@
+name: Ping
+version: 1.0
+main: me.ping.main.Main
+author: Tijela_Quebrada
+commands:
+  ping:
